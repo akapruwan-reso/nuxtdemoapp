@@ -17,8 +17,7 @@
       if (window.hbspt) {
         window.hbspt.forms.create({
           portalId: "42449409",
-          formId: "5a267040-7219-464e-83f9-4a3d9a49f39a",
-          target: "#hubspotForm"
+          formId: "5a267040-7219-464e-83f9-4a3d9a49f39a"
         })
       }
     })
